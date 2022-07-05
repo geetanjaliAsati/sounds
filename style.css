@@ -25,10 +25,10 @@ body{
   padding:1.5rem 3rem;
   font-size:1.2rem;
   font-family:inherit;
-  cursor: pointer;;
+  cursor: pointer;
 }
 .btn:hover, .stop:hover{
-  opacity: 0.8;;
+  opacity: 0.8;
 }
 .btn:focus, .stop:focus{
   outline:none;
